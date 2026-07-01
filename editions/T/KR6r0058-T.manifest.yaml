@@ -1,0 +1,60 @@
+canonical_identifier: bkk:krp/KR6r0058/T/v1
+canonical_location: https://kanripo.org/bkk/KR6r0058/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 海東高僧傳
+  identifiers:
+    krp: KR6r0058
+    cbeta: T50n2065
+    cbeta_old_id: T50n2065
+    authorityid: CA0001142
+    json_key: T2065
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T50/T50n2065.xml
+    old_id: T50n2065
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0058_000-T.yaml, hash: 'sha256:4771077bb0bfa7ac2b73da0559a0ec515f4d48ef0417ad8f22d4cddb14f5c41a'}
+  - {seq: 1, filename: KR6r0058_001-T.yaml, hash: 'sha256:b1a9b4347ccbea7418c15e55c3725dd8e524a6cb5f13fc4288dab8452df147a8'}
+  - {seq: 2, filename: KR6r0058_002-T.yaml, hash: 'sha256:243cc639c58f5ec7288a02c9215623eb51dc8b742809f3ac0d7bc35b10c3eedf'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0058_000-T.markers.yaml, hash: 'sha256:26bc8cdebbd5374001d625ce508193d725977b754826ade14843e9df65c8c42e'}
+  - {seq: 1, role: markers, filename: assets/KR6r0058_001-T.markers.yaml, hash: 'sha256:c4232285310b3cb0041fb3b26ca1c4749b0c6272e9cbaffe9103737bddc9d97b'}
+  - {seq: 2, role: markers, filename: assets/KR6r0058_002-T.markers.yaml, hash: 'sha256:e3b03ba03ba1017c9931abcfa989e624afc73bc7597dee8d0ab612c6afe4a8b5'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0058_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6857
+  label: 海東高僧傳卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0058_T_001-mulu-1
+    span:
+    - body
+    - 22
+    - 22
+  label: 流通
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0058_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 4109
+  label: 海東高僧傳卷第二
+  type: juan
+  level: 1
+hash: sha256:505b2cbcd71f29bf93277b4b9da6d4494c60c7209148edbe1e35c93cbe0506c1

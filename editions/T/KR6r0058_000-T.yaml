@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6r0058/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 海東高僧傳
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T50/T50n2065.xml
+    old_id: T50n2065
+hash: sha256:4771077bb0bfa7ac2b73da0559a0ec515f4d48ef0417ad8f22d4cddb14f5c41a
